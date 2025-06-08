@@ -1,0 +1,2 @@
+📝 Project Description:
+This is a simple web-based Tic Tac Toe game where two players can take turns marking "O" and "X" in a 3×3 grid. The game checks for winning conditions, announces the winner, and allows the game to be restarted.
